@@ -2,8 +2,8 @@
 
 🎓 2nd Year Computer Science Student  
 💻 Aspiring Full Stack & Frontend Developer  
-🚀 Building projects with React, Python & Java  
-🌱 Currently deepening skills in Web Development  
+🚀 Building projects with MERN Stack  
+🌱 Currently deepening skills in Java
 📫 Open to internship opportunities  
 
 ---
@@ -13,8 +13,8 @@
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
 
 **Backend & Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,7 +26,8 @@
 
 - 🔨 Building React-based web applications  
 - 📚 Strengthening DSA skills  
-- 🌐 Exploring Full Stack development  
+- 🌐 Exploring Full Stack development
+- 🍵 Learning Java
 
 ---
 
@@ -39,10 +40,10 @@
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YUVARAJ-2-9)
 
 ---
 
 *"Code. Learn. Build. Repeat."*
+*"Fail better ,You will become Stronger"*
     
