@@ -33,9 +33,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YUVARAJ-2-9/YUVARAJ-2-9/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
