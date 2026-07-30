@@ -1,11 +1,16 @@
 <h1 align="center">Hi, I'm Yuvaraj 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YUVARAJ-2-9&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Final+Year+CS+Student+%F0%9F%8E%93;DSA+%26+Placement+Prep+in+Progress+%F0%9F%92%BB;Full+Stack+Developer+%7C+React+%2B+Java+%2B+MongoDB;Open+to+Internship+%2F+SDE+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
----
+<br>
 
 ### 🚀 About Me
 
@@ -15,7 +20,7 @@
 - 🎯 Actively preparing for **SDE / Software Developer roles** — open to internships and full-time opportunities
 - 📫 Reach out if you're hiring or want to collaborate!
 
----
+<br>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -23,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,js,java,mongodb,vscode,git,github&theme=dark" alt="My Skills" />
 </p>
 
----
+<br>
 
 ### 💡 Featured Projects
 
@@ -37,12 +42,12 @@
     <td width="50%">
       <h4>🏫 eCampus Portal</h4>
       <p>A campus management portal for streamlining student and college workflows.</p>
-      <a href="#">🔗 Add Repository Link</a>
+      <a href="https://github.com/YUVARAJ-2-9">🔗 View Repository</a>
     </td>
   </tr>
 </table>
 
----
+<br>
 
 ### 📊 GitHub Stats
 
@@ -50,11 +55,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YUVARAJ-2-9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVARAJ-2-9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YUVARAJ-2-9&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
 </p>
 
----
+<br>
 
 ### 📬 Let's Connect
 
