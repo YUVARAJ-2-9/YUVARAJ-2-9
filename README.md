@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/YUVARAJ-2-9/YUVARAJ-2-9/main/assets/profile-setup.png" width="100%" alt="My Workspace" style="border-radius: 12px;"/>
+<img src="https://github.com/YUVARAJ-2-9/YUVARAJ-2-9/blob/main/github%20profile.jpg?raw=true" width="100%" alt="My Workspace" style="border-radius: 12px;"/>
 
 <br><br>
 
