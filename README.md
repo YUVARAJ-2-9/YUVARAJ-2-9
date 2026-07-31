@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<img src="github profile.jpg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&background=0D1117&center=true&width=650&lines=Final+Year+CS+Student+%F0%9F%8E%93;DSA+%26+Placement+Prep+in+Progress;Full+Stack+Dev+%7C+React+%2B+Java+%2B+MongoDB;Open+to+Internship+%2F+SDE+Roles" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=YUVARAJ-2-9&label=TERMINAL+VISITS&color=39FF14&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 
@@ -18,6 +18,20 @@
 ```bash
 $ cat about_me.txt
 ```
+
+<div align="center">
+
+**Hi, I'm Yuvaraj 👋** — a Computer Science student who loves turning ideas into code.
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github.com/YUVARAJ-2-9/YUVARAJ-2-9/raw/main/assets/profile-setup.png" width="70%" alt="My Setup" />
+</div>
+
+<br>
 
 <table align="center">
 <tr>
