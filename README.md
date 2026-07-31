@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Yuvaraj&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Yuvaraj&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://github.com/YUVARAJ-2-9/YUVARAJ-2-9/blob/main/github%20profile.jpg?raw=true" width="100%" alt="My Workspace" style="border-radius: 12px;"/>
+<img src="https://github.com/YUVARAJ-2-9/YUVARAJ-2-9/blob/main/github%20profile.jpg?raw=true" width="70%" alt="My Workspace" style="border-radius: 12px;"/>
 
 <br><br>
 
