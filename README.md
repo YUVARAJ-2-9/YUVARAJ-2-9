@@ -1,140 +1,123 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  root@yuvaraj:~$ whoami                                ║
-║  > Yuvaraj — Full Stack Developer & CS Student         ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&background=0D1117&center=true&width=650&lines=Final+Year+CS+Student+%F0%9F%8E%93;DSA+%26+Placement+Prep+in+Progress;Full+Stack+Dev+%7C+React+%2B+Java+%2B+MongoDB;Open+to+Internship+%2F+SDE+Roles" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=YUVARAJ-2-9&label=TERMINAL+VISITS&color=39FF14&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-
-</div>
-
-<br>
-
-```bash
-$ cat about_me.txt
-```
-
-<div align="center">
-
-**Hi, I'm Yuvaraj 👋** — a Computer Science student who loves turning ideas into code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Yuvaraj&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github.com/YUVARAJ-2-9/YUVARAJ-2-9/raw/main/assets/profile-setup.png" width="70%" alt="My Setup" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+code+%E2%9C%A8;Final+Year+CS+Student+%F0%9F%8E%93;React+%2B+Java+%2B+MongoDB+Developer;Open+to+Internship+%2F+SDE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td width="600">
+<img src="https://raw.githubusercontent.com/YUVARAJ-2-9/YUVARAJ-2-9/main/assets/profile-setup.png" width="100%" alt="My Workspace" style="border-radius: 12px;"/>
 
-- 🎓 `Final Year BSc CS Student` at KG College of Arts and Science
-- 🧠 Currently sharpening `Data Structures & Algorithms (DSA)` for placement interviews
-- 💻 Building full-stack projects with `React` `Java` `MongoDB`
-- 🎯 Actively hunting `SDE / Software Developer` roles — open to internships & full-time
-- 📫 Hit me up if you're hiring or want to collaborate
+<br><br>
 
-</td>
-</tr>
-</table>
+## 🌱 About Me
 
-<br>
-
-```bash
-$ ls tech_stack/
-```
-
-<div align="center">
 <table>
 <tr>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="50"/><br><sub>React</sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="50"/><br><sub>Java</sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub>JavaScript</sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><sub>MongoDB</sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub>HTML</sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub>CSS</sub></td>
-</tr>
-<tr>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub>Git</sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub>GitHub</sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub>VS Code</sub></td>
-</tr>
-</table>
-</div>
+<td width="70%">
 
-<br>
+Hi, I'm **Yuvaraj** — a final year Computer Science student passionate about building things that actually solve problems. I spend my days between lecture halls, LeetCode problems, and late-night coding sessions.
 
-```bash
-$ ls projects/ --featured
-```
+Right now I'm deep in **DSA prep** for placements, while also shipping full-stack projects on the side. I believe in learning by building — not just watching tutorials.
 
-<table align="center" width="100%">
-<tr>
-<th>💊 MedRemainder</th>
-<th>🏫 eCampus Portal</th>
-</tr>
-<tr>
-<td width="50%" valign="top">
-A medicine reminder application built to help users stay on top of their medication schedule.
-<br><br>
-<code>Stack: React · Node · MongoDB</code>
-<br><br>
-<a href="https://github.com/YUVARAJ-2-9/-medicine-reminder">→ view repo</a>
+🎯 **Currently looking for:** Internship / SDE opportunities  
+📚 **Currently learning:** Advanced DSA, System Design basics  
+💬 **Ask me about:** React, Java, MongoDB, or my projects  
+
 </td>
-<td width="50%" valign="top">
-A campus management portal for streamlining student and college workflows.
-<br><br>
-<code>Stack: React · Java · MongoDB</code>
-<br><br>
-<a href="https://github.com/YUVARAJ-2-9">→ view repo</a>
+<td width="30%" align="center">
+
+### 📊 Quick Stats
+🎓 Final Year  
+💻 3+ Projects  
+🔥 Active Learner  
+📫 Open to Work  
+
 </td>
 </tr>
 </table>
 
 <br>
 
-```bash
-$ ./run_stats.sh
-```
+## 🛠️ My Toolbox
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YUVARAJ-2-9&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVARAJ-2-9&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=YUVARAJ-2-9&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14" alt="GitHub Streak" width="90%" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 <br>
 
-```bash
-$ cat contact.info
-```
+## 🚀 Things I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 MedRemainder
+A medicine reminder app that helps people stay on top of their medication schedule — because health shouldn't depend on memory.
+
+**Built with:** React · Node · MongoDB
+
+[**→ Explore the repo**](https://github.com/YUVARAJ-2-9/-medicine-reminder)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 eCampus Portal
+A campus management portal designed to simplify everyday workflows for students and colleges alike.
+
+**Built with:** React · Java · MongoDB
+
+[**→ Explore the repo**](https://github.com/YUVARAJ-2-9)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YUVARAJ-2-9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVARAJ-2-9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" width="38%" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=YUVARAJ-2-9&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" width="90%" />
+</div>
+
+<br>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" />
-</a>
-<a href="https://github.com/YUVARAJ-2-9" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YUVARAJ-2-9)
 
-<br><br>
+<br>
 
-```
-> "Writing code that makes a difference."
-> process exited with code 0 ✓
-```
+*"Writing code that makes a difference."*
+
+<img src="https://komarev.com/ghpvc/?username=YUVARAJ-2-9&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer" width="100%"/>
