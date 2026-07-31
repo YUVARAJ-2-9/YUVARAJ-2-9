@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+code+%E2%9C%A8;Final+Year+CS+Student+%F0%9F%8E%93;React+%2B+Java+%2B+MongoDB+Developer;Open+to+Internship+%2F+SDE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 <br>
